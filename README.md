@@ -1,5 +1,5 @@
 # Linear-Equation-Solver
-takes in a file, which contains the number of variables, the number of equations, and a matrix. Then it uses Gauss Jordan elimination to solve it, and output the variables in a designated output file.
+Takes in a file, which contains the number of variables, the number of equations, and a matrix. Then it uses Gauss Jordan elimination to solve it, and output the variables in a designated output file.
 
 "java Main -in in.txt -out out.txt" where in.txt is the file containing the matrix, and out.txt is where it will put the answers.
 
